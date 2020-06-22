@@ -12,6 +12,10 @@
   no lixo doméstico comum e colabore para um meio ambiente melhor e mais saudavel.
  </p> 
  
+  <br />
+
+<br />
+
  <p align="center"> 
   <img src="https://github.com/KelvinLopes/nextlevelweek01/blob/master/screenhots/Captura%20de%20tela%20de%202020-06-01%2023-15-58.png"
   width="800" heigth="900" align="center" alt="Ecoleta versão Web"/>
@@ -79,6 +83,7 @@
 * Use `yarn start` para o ReactJs e `expo start` para o React Native
 
 ### Saiba mais como foi essa semana
+https://medium.com/@kelvinlopes/next-level-week01-925ad5a01266
 
 
 
