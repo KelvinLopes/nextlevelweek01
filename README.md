@@ -3,9 +3,6 @@
   <img src="https://github.com/KelvinLopes/nextlevelweek01/blob/master/mobile/src/assets/logo%401x.png"  width="300" heigth="300" align="center" alt="Logo"/>
  </p>
  
-# Ecoleta
-
-
 <p>
   Encontre facilmente estabelecimentos próximo de você que realizam coletas de resíduos que não podem ser descartados 
   no lixo doméstico comum e colabore para um meio ambiente melhor e mais saudavel.
